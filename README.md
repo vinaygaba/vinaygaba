@@ -12,8 +12,6 @@ The bulk of my career has been laser-focused on the mobile ecosystem. In recogni
 
 You will always find me chipping away on one of my projects. **A few of my notable creations include [Showkase](https://github.com/airbnb/Showkase), [JetpackCompose.app](https://jetpackcompose.app/), [MakerOS](https://vinaygaba.gumroad.com/l/MakerOS) & [Learn Jetpack Compose By Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example)**. Working on these projects gives me a lot of joy and is my idea of a perfect Sunday 😅 **I also write a popular Android/Compose focused newsletter called [Dispatch](https://www.jetpackcompose.app/newsletter) that's read by the top Android developers in the industry**.
 
-My website is a good way to learn more about me - https://www.vinaygaba.me
-
 Here's a small selection of my body of work. You can find a lot more details on my [personal website](https://www.vinaygaba.me):
 
 |                                                                                                                                                                                     |                                                                                                                                                                           |                                                                                                                                                              |
