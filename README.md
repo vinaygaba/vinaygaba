@@ -2,11 +2,11 @@
 
 > I generally build things that run in your pocket 📱 and work at the intersection of code & design.
 
-I'm an Engineering Leader with a lot of experience in building world-class consumer products. **I've helped build some of your favorite products such as Airbnb, Snapchat & Spotify**.
+I'm an Engineering Leader with a lot of experience in building world-class consumer products. **I've helped build some of your favorite products such as Databricks, Airbnb, Snapchat & Spotify**.
 
 I live in sunny California with my lovely wife and daughter. I began my career in India before moving to the United States to pursue a Master's in Computer Science at Columbia University.
 
-**I currently lead an ambitious AI-first team at Airbnb** that maintains critical pieces of our Product Infrastructure, focusing on transforming ideas right from design to code and helping us ship high-quality products faster. I'm biased, but I genuinely believe that we are on the cutting edge of product development and work on some of the most interesting problems in the industry.
+**I currently lead an ambitious AI-first team at Databricks** working on AI Devtools, where we're defining the standard for AI-native organizations. I'm biased, but I genuinely believe that we are on the cutting edge of developer infrastructure and work on some of the most interesting problems in the industry.
 
 The bulk of my career has been laser-focused on the mobile ecosystem. In recognition of my work, I've been acknowledged as a **Google Developer Expert for Android**. I enjoy sharing insights on topics that interest me through my [talks & writing](https://www.vinaygaba.me/writing/). I've also been fortunate to have my work featured and discussed by [leading publications and industry leaders](https://www.vinaygaba.me/appearances/).
 
